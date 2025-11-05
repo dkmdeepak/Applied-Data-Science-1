@@ -1,2 +1,2 @@
-<b>Applied-Data-Science</b><br>
+<b><u>Applied-Data-Science</u></b><br><br>
 A comprehensive Python library designed to streamline common data science tasks, including data cleaning, visualization, statistical analysis, and machine learning model implementation. Built for both beginners and experienced practitioners, this module provides efficient tools to analyze and visualize datasets, automate workflows, and apply machine learning algorithms with minimal setup.
